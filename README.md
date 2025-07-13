@@ -26,12 +26,9 @@
 | Camera2 API | Controls the flashlight (torch)       |
 | MVVM (Lite) | Separation of concerns and state mgmt |
 
----
 
-## 📱 Screenshots
-<img width="1080" height="2400" alt="Screenshot_20250713_171951" src="https://github.com/user-attachments/assets/04c2adde-1b88-4756-a84b-4ad15122bd02" />
 
-*(You can add screenshots here of the app interface)*
+
 
 ---
 
@@ -87,6 +84,9 @@ git clone https://github.com/shubhamkhandeparker/Mrflashyflashapp.git
 * Dark mode and theme customization
 
 ---
+
+## 📱 Screenshots
+<img width="1080" height="2400" alt="Screenshot_20250713_171951" src="https://github.com/user-attachments/assets/04c2adde-1b88-4756-a84b-4ad15122bd02" />
 
 ## 👨‍💻 Author
 
