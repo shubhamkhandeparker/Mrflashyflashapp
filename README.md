@@ -91,7 +91,7 @@ git clone https://github.com/shubhamkhandeparker/Mrflashyflashapp.git
 ## 👨‍💻 Author
 
 **Shubham Somnath Khandeparker**
-[GitHub](https://github.com/shubhamkhandeparker) | [LinkedIn]((https://www.linkedin.com/in/shubham-khandeparker-448238359/))
+[GitHub](https://github.com/shubhamkhandeparker) | [LinkedIn](https://www.linkedin.com/in/shubham-khandeparker-448238359/)
 
 ---
 
