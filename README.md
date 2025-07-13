@@ -29,8 +29,7 @@
 ---
 
 ## 📱 Screenshots
-
-<img width="1080" height="2400" alt="Screenshot_20250713_171951" src="https://github.com/user-attachments/assets/6b81f6fd-7dce-4026-b71c-3f7f5c0a0dda" />
+<img width="1080" height="2400" alt="Screenshot_20250713_171951" src="https://github.com/user-attachments/assets/04c2adde-1b88-4756-a84b-4ad15122bd02" />
 
 *(You can add screenshots here of the app interface)*
 
